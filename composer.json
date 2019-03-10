@@ -1,0 +1,10 @@
+{
+    "name": "aleksey/deployer",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}
